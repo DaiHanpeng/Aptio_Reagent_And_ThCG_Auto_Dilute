@@ -1,0 +1,1 @@
+python D:\902_Python_Materials\PyInstaller-2.1\pyinstaller.py --distpath=D:\01_Automation\23_Experiential_Conclusions_2016\03_Reagent_And_ThCG_Auto_Dilute\Python  -F  D:\01_Automation\23_Experiential_Conclusions_2016\03_Reagent_And_ThCG_Auto_Dilute\Python\TimingScanner.py
